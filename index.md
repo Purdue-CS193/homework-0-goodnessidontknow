@@ -1,3 +1,9 @@
+# Jack's First CS193 Homework
+
+## Favourite things about CS 193 so far
+- **The fact that the significant majority of us don't like Taylor Swift.**
+- See above
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
