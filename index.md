@@ -3,7 +3,6 @@
 ## Favourite things about CS 193 so far
 - **The fact that the significant majority of us don't like Taylor Swift.**
 - See above
-- See above
 
 ## Welcome to GitHub Pages
 
